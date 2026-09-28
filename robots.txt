@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.leiiwkw.cn/sitemap.xml
